@@ -12,7 +12,7 @@
 
 - 🔍 Interested in **valuation, portfolio theory, and financial modeling**
 - ⚙️ Currently learning: `Python`, `Pandas`, `NumPy`, and `matplotlib`
-- 📚 Working on: Simulating **macro hedge fund strategies** and **portfolio stress testing**  
+- 📚 Working on: Simulating **macro hedge fund strategies** and **trading strategy backtesting**  
 - 💬 Ask me about: How to blend finance + data + code
 - 🧪 Exploring: Eigenvalue-based risk stress frameworks and backtesting
 
