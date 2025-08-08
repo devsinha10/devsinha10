@@ -10,9 +10,9 @@
 
 ### 🧠 About Me
 
-- 🔍 Interested in **valuation, portfolio theory, and financial modeling**
+- 🔍 Interested in **global markets, portfolio theory, and financial modeling**
 - ⚙️ Currently learning: `Python`, `Pandas`, `NumPy`, and `matplotlib`
-- 📚 Working on: Simulating **macro hedge fund strategies** and **trading strategy backtesting**  
+- 📚 Working on: **Creating an advanced automated market maker in Jupyter Lab**  
 - 💬 Ask me about: How to blend finance + data + code
 - 🧪 Exploring: Eigenvalue-based risk stress frameworks and backtesting
 
