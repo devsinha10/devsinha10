@@ -12,7 +12,7 @@
 
 - 🔍 Interested in **global markets, portfolio theory, and financial modeling**
 - ⚙️ Currently learning: `Python`, `Pandas`, `NumPy`, and `matplotlib`
-- 📚 Working on: **Creating an advanced automated market maker in Jupyter Lab**  
+- 📚 Working on: **Backtesting trading strategies in JupyterLab**  
 - 💬 Ask me about: How to blend finance + data + code
 - 🧪 Exploring: Eigenvalue-based risk stress frameworks and backtesting
 
@@ -20,7 +20,7 @@
 
 ### ⚽ Outside of Finance
 
-- 🏃‍♂️ Weekly 11-a-side football at UCL
+- 🏃‍♂️ Captain of 11-a-side football team at UCL
 - 🕹️ Sim racing enthusiast | Big fan of **FC Barcelona**
 - 📍London-based, originally from NYC
 
